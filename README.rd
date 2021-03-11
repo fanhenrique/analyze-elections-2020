@@ -1,7 +1,7 @@
-Trabalho desenvolvido na disiplina de Introdução à análise de dados.
+Trabalho desenvolvido na disciplina de Introdução à análise de dados.
 
 
-Análise dos candidatos e seus bens de Alegrete - eleições 2020
+Análise dos candidatos e seus bens de Alegrete - eleições 2020.
 
 
 
