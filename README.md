@@ -3,8 +3,7 @@
 Trabalho desenvolvido na disciplina de Introdução à análise de dados.
 
 ## Repositório:
-https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1/repositorio-
-de-dados-eleitorais
+https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1/repositorio-de-dados-eleitorais
 
 ## Dataset:
 http://agencia.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2020.zip
